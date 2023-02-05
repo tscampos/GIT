@@ -1,2 +1,13 @@
 # GIT-Basic
-Diretório destinado a testes de criação, manipulação e exclusão de arquivos e branchs; testes do comportamento dos devidos comandos que o GIT proporciona!
+Diretório destinado a:
+- Testes de criação, manipulação e exclusão de arquivos e branchs
+- Testes do comportamento dos devidos comandos que o GIT proporciona:
+
+git status (Verificação de status de alterações)
+git branch (listagem de branches criadas)
+git commit -a -m "Comentário a ser feito"
+git push (envio de alterações para nuvem)
+git pull (atualização do diretório)
+git log (verificar histórico dos commits)
+
+....
