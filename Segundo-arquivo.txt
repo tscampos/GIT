@@ -1,1 +1,3 @@
 Texto referrente ao arquivo 2
+Adicionando segunda linha.
+Adicionando terceira linha.
