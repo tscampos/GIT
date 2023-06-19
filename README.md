@@ -10,4 +10,9 @@ git push (envio de alterações para nuvem)
 git pull (atualização do diretório)
 git log (verificar histórico dos commits)
 
+Ao inserir novo SSH, necessário executar:
+
+eval $(ssh-agent)
+ssh-add ~/.ssh/NOME_DA_SSH
+
 ....
