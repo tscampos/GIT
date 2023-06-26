@@ -1,7 +1,5 @@
 # GIT-Basic
-Diretório destinado a:
-- Testes de criação, manipulação e exclusão de arquivos e branchs
-- Testes do comportamento dos devidos comandos que o GIT proporciona:
+Comandos básicos para executar:
 
 git status (Verificação de status de alterações)
 git branch (listagem de branches criadas)
@@ -10,9 +8,9 @@ git push (envio de alterações para nuvem)
 git pull (atualização do diretório)
 git log (verificar histórico dos commits)
 
-Ao inserir novo SSH, necessário executar:
+Ao inserir novo SSH, ou iniciar editor de códigos com arquivos abertos de outras sessões, necessário executar os dois comandos abaixo para sincronização da chave SSH do GitHub e o terminal:
 
-eval $(ssh-agent)
-ssh-add ~/.ssh/NOME_DA_SSH
+- eval $(ssh-agent)
+- ssh-add ~/.ssh/NOME_DA_SSH
 
 ....
